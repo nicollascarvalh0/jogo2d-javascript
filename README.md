@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>jogo2d-javascript
 </h1>
-<h3>◦ Código fonte de "Como programar um jogo 2D em JavaScript"</h3>
+<h3>"Como programar um jogo 2D em JavaScript"</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SVG-FFB13B.svg?style&logo=SVG&logoColor=black" alt="SVG" />
